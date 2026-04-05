@@ -39,6 +39,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# Credentials
+.env
+
 # pkgdown site
 docs/
 
@@ -48,5 +51,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Credentials
-.env
+# ignore data folder to prevent huge git commits
+data/

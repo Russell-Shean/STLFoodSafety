@@ -17,4 +17,4 @@ hello <- function() {
   print("Hello, world!")
 }
 
-# well remove this soon
+# will remove this soon
